@@ -87,16 +87,3 @@ scissorsButton.addEventListener("click", () => {
 
 
 
-/**
- * 
- * function playGame() {
-    for (i = 0; i < 5; i++) {
-        let playerPick = prompt("Please pick Rock, Paper, or Scissors");
-        playRound(playerPick, getComputerChoice());
-    }
-
-}
-
-playGame();
- */
-
